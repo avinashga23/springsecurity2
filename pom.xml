@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.byteobject.prototype</groupId>
     <artifactId>springsecurity2</artifactId>
-    <version>1</version>
+    <version>1.0</version>
     <name>springsecurity2</name>
     <description>Demo project for Spring Boot</description>
 
