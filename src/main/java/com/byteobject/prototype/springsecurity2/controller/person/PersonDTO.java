@@ -1,5 +1,6 @@
 package com.byteobject.prototype.springsecurity2.controller.person;
 
+// PersonDTO
 public class PersonDTO {
 
     private int id;
